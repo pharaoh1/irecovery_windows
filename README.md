@@ -1,1 +1,2 @@
-To get it working better: please install Zadig and libusbK
+#irecovery_windows
+For it to work better, please install Zadig libusbK
